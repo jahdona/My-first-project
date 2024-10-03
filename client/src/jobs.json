@@ -1,0 +1,63 @@
+[
+    {
+        "id":"1",
+        "title":"Senior React Developer",
+        "type":"Full-time",
+        "description":"We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have stron skills in HTML,CSS and Javascript, with experience working with modern Javascript frameworks such as React or Angular.",
+        "location":"Boston, MA",
+        "salary":"$70k - $80k",
+        "company":{
+            "name":"NewTek Solutions",
+            "description":"NewTek Solution is a leading technology company specialized in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a cllaborativeand innovative work environment.",
+            "contactEmail":"contact@teksolutions.com",
+            "contactPhone":"555-555-5555"
+        }
+    },
+    {
+        "id":"2",
+        "title":"Front-End Engineer (React & Redux)",
+        "type":"Remote",
+        "description":"Are you passionate about front-end development? join our team in vibrant Brooklyn,NY, and work on exciting projecdts that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+        "location":"Brooklyn, NY",
+        "salary":"$70k - $80k",
+        "company":{
+            "name":"Dolor Cloud",
+            "description":"Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+            "contactEmail":"contact@dolorsitamet.com",
+            "contactPhone":"304-241-4397"
+             
+        }
+
+    },
+    {
+        "id":"3",
+        "title":"React Native Developer",
+        "type":"Full-time",
+        "description":"Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package avaiable.",
+        "location":"Prtland, OR",
+        "salary":"$100k - $110k",
+        "company":{
+            "name":"Port Solutions INC",
+            "description":"Port Solutions INC is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a surpportive and rewarding work environment.",
+            "contactEmail":"contact@ipsumlorem.com",
+            "contactPhone":"504-643-1345"
+        }
+        
+
+    },
+    {
+        "id":"4",
+        "title":"Full Stack React Developer",
+        "type":"Full-time",
+        "description":"Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact.",
+        "location":"Atlanta, GA",
+        "salary":"$90k - $100k",
+        "company":{
+            "name":"Browning Technologies",
+            "description":"Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+            "contactEmail":"contact@consecteturadipisicing.com",
+            "contactPhone":"604-743-9845"
+        }
+    }
+
+]
